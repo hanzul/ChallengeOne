@@ -24,6 +24,7 @@ Fixed areas :
 
 - I verified all the landings work correctly after the user clicks on any links. 
 
-
+<img width="320" alt="Screen Shot 2020-05-24 at 8 11 29 PM" src="https://user-images.githubusercontent.com/3277722/82774967-2321ef00-9dfb-11ea-9860-7a297e8c5052.png">
+<img width="320" alt="Screen Shot 2020-05-24 at 8 11 43 PM" src="https://user-images.githubusercontent.com/3277722/82774974-27e6a300-9dfb-11ea-9c47-498ebad893e8.png">
 
 
