@@ -1,6 +1,7 @@
-###Week One Challenge: Horiseon
+# Week One Challenge: Horiseon
 
 Published link --> https://hanzul.github.io/ChallengeOne/
+
 My Github Repo --> https://github.com/hanzul/ChallengeOne
 
 The goal of this project was to modify the existing HTML and CSS codes. The main HTML code had some issues and was not commented on as the best practice. Also, we should make sure the website follows web accessibility standards and processes in the optimization of search engines. 
