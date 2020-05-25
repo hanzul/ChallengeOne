@@ -27,4 +27,6 @@ Fixed areas :
 <img width="320" alt="Screen Shot 2020-05-24 at 8 11 29 PM" src="https://user-images.githubusercontent.com/3277722/82774967-2321ef00-9dfb-11ea-9860-7a297e8c5052.png">
 <img width="320" alt="Screen Shot 2020-05-24 at 8 11 43 PM" src="https://user-images.githubusercontent.com/3277722/82774974-27e6a300-9dfb-11ea-9c47-498ebad893e8.png">
 
+The Policy page : 
 
+<img width="512" alt="Screen Shot 2020-05-24 at 8 15 27 PM" src="https://user-images.githubusercontent.com/3277722/82775055-67ad8a80-9dfb-11ea-98c9-33f118999e17.png">
