@@ -11,7 +11,7 @@ Moreover, I consolidated some of the CSS codes to I followed the semantic struct
 
 Fixed areas :
 
-- The HTML code for the search engine :"<div id="search-engine-optimization" class="search-engine-optimization">". 
+- The HTML code for the search engine :"div id="search-engine-optimization" class="search-engine-optimization"". 
 
 - Page titles were missing: <title>Harison</title>
 
